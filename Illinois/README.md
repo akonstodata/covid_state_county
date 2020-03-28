@@ -7,7 +7,7 @@ The increase in COVID cases in a particular state will often be spread heterogen
 
 Contact: Anna Konstorum (konstorum.anna@gmail.com)
 
-The Jupyter notebook for all updated results is found here [[1]](https://github.com/akonstodata/covid_state_county/blob/master/Illinois/code/IL_COVID_dynamics.ipynb)
+The Jupyter notebook for all updated results is found here [[1]](https://github.com/akonstodata/covid_state_county/blob/master/Illinois/code/IL_COVID_Dynamics.ipynb)
 
 CURRENT RESULTS
 ------------
