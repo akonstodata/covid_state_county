@@ -3,7 +3,7 @@ Analysis of county dynamics for COVID cases in Illinois
 
 INTRODUCTION
 ------------
-The increase in COVID cases in a particular state will often be spread heterogenously in that state: some counties will be experiencing tremendous growth, whereas others will not.  It will be helpful, then, to track dynamics of virus spread at the county level.  Below, we present results from a statistical model fit of counties in Maryland.  We will be tracking which models fit cumulative growth the best: exponential, polynomial, or linear.  As virus growth spreads, the best model fit will veer away from exponential towards linear.  This is what we are looking for.
+The increase in COVID cases in a particular state will often be spread heterogenously in that state: some counties will be experiencing tremendous growth, whereas others will not.  It will be helpful, then, to track dynamics of virus spread at the county level.  Below, we present results from a statistical model fit of counties in Illinois.  We will be tracking which models fit cumulative growth the best: exponential, polynomial, or linear.  As virus growth spreads, the best model fit will veer away from exponential towards linear.  This is what we are looking for.
 
 Contact: Anna Konstorum (konstorum.anna@gmail.com)
 
@@ -19,6 +19,9 @@ Illinois
 ![](https://github.com/akonstodata/covid_state_county/blob/master/Illinois/results/IL_update.png)
 
 The best model for Illinois is the exponential model.  Prediction for number of total cases for 03/28 is 3798.
+
+Illinois counties: coming soon!
+------------
 
 SOURCE DATA
 ------------
