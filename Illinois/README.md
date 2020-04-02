@@ -18,7 +18,7 @@ Illinois
 
 ![](https://github.com/akonstodata/covid_state_county/blob/master/Illinois/results/IL_update.png)
 
-The best model for Illinois is the quadratic model.  Prediction for number of total cases for 04/02 is 9641.
+The best model for Illinois is the quadratic model.  Prediction for number of total cases for 04/02 is 7990.
 
 Illinois counties: coming soon!
 ------------
