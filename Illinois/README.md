@@ -18,7 +18,7 @@ Illinois
 
 ![](https://github.com/akonstodata/covid_state_county/blob/master/Illinois/results/IL_update.png)
 
-The best model for Illinois is the exponential model.  Prediction for number of total cases for 03/28 is 3798.
+The best model for Illinois is the quadratic model.  Prediction for number of total cases for 04/02 is 9641.
 
 Illinois counties: coming soon!
 ------------
