@@ -5,7 +5,7 @@ INTRODUCTION
 ------------
 The increase in COVID cases in a particular state will often be spread heterogenously in that state: some counties will be experiencing tremendous growth, whereas others will not.  It will be helpful, then, to track dynamics of virus spread at the county level.  Below, we present results from a statistical model fit of counties in Illinois.  We will be tracking which models fit cumulative growth the best: exponential, polynomial, or linear.  As virus growth spreads, the best model fit will veer away from exponential towards linear.  This is what we are looking for.
 
-We also plot the fraction of deaths/positive cases.  
+We also plot crude Case Fatality Rate (CFR) for the state and counties.  
 
 Contact: Anna Konstorum (konstorum.anna@gmail.com)
 
@@ -13,7 +13,7 @@ The Jupyter notebook for all updated results is found here [[1]](https://github.
 
 CURRENT RESULTS
 ------------
-Last update: 04/03/2020 10:30pm EST
+Last update: 04/05/2020 11:00am EST
 
 Illinois
 ------------
