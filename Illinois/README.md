@@ -13,7 +13,7 @@ The Jupyter notebook for all updated results is found here [[1]](https://github.
 
 CURRENT RESULTS
 ------------
-Last update: 04/18/2020 11:30am EST
+Last update: 04/20/2020 3:00pm EST
 
 Illinois
 ------------
